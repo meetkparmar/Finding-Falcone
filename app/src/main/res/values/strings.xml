@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">Finding Falcone</string>
+    <string name="app_name">Finding Falcon</string>
+    <string name="select_planet">Please select any one the Planet:</string>
+    <string name="select_vehicle">Please select any one the Vehicle:</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="congratulations_text">You have successfully find out the Falcon on planet</string>
+    <string name="failed">Failed</string>
+    <string name="failed_text">You could not find out the Falcon!</string>
+    <string name="error">Something Went Wrong!</string>
+    <string name="play_again">Play Again</string>
+    <string name="try_again">Try Again</string>
 </resources>
